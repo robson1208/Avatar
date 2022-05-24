@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=El+Messiri&family=Paytone+One&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'El Messiri', serif;
+	font-size: 18px;
+	margin: 0px;
+} 
+	
+
+h1, h2, h3 {
+	font-family: 'Paytone One', sans-serif;
+	font-size: bold;
+}
+
+h2 {font-size: 50px;}
+
+a {
+	text-decoration: none;
+}
+
+/* Custom design with class*/
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
